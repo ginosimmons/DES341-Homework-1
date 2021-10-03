@@ -1,0 +1,53 @@
+.img{
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.capncrunch{
+    height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.cinnamontoastcrunch{
+    height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.cocoapuffs{
+    height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.luckycharms{
+    height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.aleft{
+    width:3%;
+    display:block;
+    justify-content: center}
+.aright{
+    width:3%;
+    display:block;
+    justify-content: center}
+
+h1{
+  text-align:center;
+  color:#0E9C96;
+  font-size: 60px}
+h2{
+  text-align:center;
+  color:#9E5D39;
+  font-size: 30px}
+h3{
+  text-align:center;
+  color:#9E5D39;
+  font-size: 20px}
+
+p{
+  text-align:center;
+  font-size: 16px
+}
+
+p{text-align:center}
